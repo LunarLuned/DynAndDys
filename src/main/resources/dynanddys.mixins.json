@@ -4,6 +4,7 @@
   "package": "net.lunarluned.dynanddys.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "items.EyeOfEnderMixin"
   ],
   "client": [
   ],
